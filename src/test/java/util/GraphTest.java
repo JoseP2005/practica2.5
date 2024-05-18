@@ -1,4 +1,4 @@
-package test.java.util;
+package util;
 
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.assertFalse;
@@ -8,7 +8,6 @@ import org.junit.Test;
 
 import java.util.List;
 import java.util.ArrayList;
-import main.java.util.Graph;
 
 public class GraphTest{
 
